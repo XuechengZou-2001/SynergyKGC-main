@@ -16,8 +16,6 @@
   </a>
 </p>
 
-> **Anonymous Submission for KR 2026.**
-> 
 > **SynergyKGC** is a high-precision dual-tower framework that leverages an instruction-driven synergy mechanism to fundamentally resolve topological heterogeneity in Knowledge Graph Completion (KGC). By advancing passive alignment to active cross-modal reconciliation, it ensures representational stability across the entire training-inference lifecycle.
 
 <p align="center">
@@ -70,11 +68,10 @@ To ensure reproducibility of our results, we recommend using **Conda** for envir
 
 ### 1. Clone the Repository
 
-Access our anonymous repository at:
 ```bash
-https://anonymous.4open.science/r/SynergyKGC
+git clone https://github.com/XuechengZou-2001/SynergyKGC-main.git
+cd SynergyKGC-main
 ```
-Please download the repository as a ZIP file from the link above and extract it to your local machine.
 
 ### 2. Install Dependencies
 
