@@ -10,11 +10,11 @@
   <strong>This repository provides the official implementation of our paper:</strong>
 </p>
 
-<p align="center">
-  <a href="https://arxiv.org/abs/xxxx.xxxx">
-    <strong>SynergyKGC: Reconciling Topological Heterogeneity in Knowledge Graph Completion via Topology-Aware Synergy</strong>
-  </a>
-</p>
+<h1 align="center">
+  <font color="#007bff" face="Georgia">
+    <i><b>SynergyKGC: Reconciling Topological Heterogeneity in Knowledge Graph Completion via Topology-Aware Synergy</b></i>
+  </font>
+</h1>
 
 > **SynergyKGC** is a high-precision dual-tower framework that leverages an instruction-driven synergy mechanism to fundamentally resolve topological heterogeneity in Knowledge Graph Completion (KGC). By advancing passive alignment to active cross-modal reconciliation, it ensures representational stability across the entire training-inference lifecycle.
 
