@@ -110,7 +110,7 @@ bash scripts/FB15k237_evaluate.sh
 bash scripts/WN18RR_evaluate.sh
 ```
 
-> **Note:** The sentences "Please replace with your actual folder name." in. sh file needs to be replaced with the specific model path.
+> **Note:** The sentences "Please replace with your actual folder name." in. sh file needs to be replaced with the specific model path. Furthermore, we strongly recommend downloading `bert-base-uncased` locally and remembering its accurate path before the formal experiment begins.
 
 ---
 
